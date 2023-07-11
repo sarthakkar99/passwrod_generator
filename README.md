@@ -1,1 +1,2 @@
-# passwrod_generator
+# password_generator
+This will generate password
